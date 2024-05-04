@@ -24,5 +24,5 @@ This project is licensed under the MIT License. For more information, see the [L
 
 ## Contact
 
-If you have any questions or feedback, please contact us at [enes.basduvar@mail.com](mailto:enes.basduvar@mail.com).
+If you have any questions or feedback, please contact us at [enes.basduvar@mail.com](mailto:enes.basduvar@mail.com) or [yakalan6@gmail.com](mailto: yakalan6@gmail.com).
 
